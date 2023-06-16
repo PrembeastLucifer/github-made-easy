@@ -1,1 +1,1 @@
-# github-made-easy
+# github-made-easy.com
